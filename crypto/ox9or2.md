@@ -1,6 +1,6 @@
 # OX9OR2
 
-* The following lines tells us that the text is encrypted with the ```^``` operator: 
+* The following lines tells us that the text is encrypted with the ```^``` operator, which is reversible by itself: 
 ```python
 def xor(msg, key):
     o = ''
