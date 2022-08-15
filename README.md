@@ -19,5 +19,5 @@
 | [Alien Communication](forensics/alien-communication.md)        | Forensics | 100    | tinnamchoi |
 | [How to defeat a dragon](reversing/how-to-defeat-a-dragon.md)  | Reversing | 100    | tinnamchoi |
 | [warmup](reversing/warmup.md)                                  | Reversing | 100    | tinnamchoi |
-| Tring Tring...                                                 | Crypto    | 100    | tinnamchoi |
+| [Tring Tring...](crypto/tring-tring.md)                        | Crypto    | 100    | tinnamchoi |
 | OX9OR2                                                         | Crypto    | 200    | tinnamchoi |
