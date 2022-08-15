@@ -1,6 +1,6 @@
 # Keygen
 
-* Decompile ```keygen``` with ```ghidra```
+* Decompile the given file with ```ghidra```
 * Notice that in main, ```getString()``` gets called if check succeeds
 * ```getString``` returns an array of integers
 * Converting the integers into ASCII text gives us the flag
