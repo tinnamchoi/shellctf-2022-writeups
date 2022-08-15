@@ -15,8 +15,8 @@
 | [Keygen](reversing/keygen.md)                                  | Reversing | 50     | tinnamchoi |
 | Sanity Check (freebie)                                         | Misc      | 10     | N/A        |
 | [World's Greatest Detecive](misc/worlds-greatest-detective.md) | Misc      | 25     | tinnamchoi |
-| [Pulling the strings](reversing/keygen.md)                                            | Reversing | 50     | tinnamchoi |
-| Alien Communication                                            | Forensics | 100    | tinnamchoi |
+| [Pulling the strings](reversing/keygen.md)                     | Reversing | 50     | tinnamchoi |
+| [Alien Communication](forensics/alien-communication.md)        | Forensics | 100    | tinnamchoi |
 | How to defeat a dragon                                         | Reversing | 100    | tinnamchoi |
 | warmup                                                         | Reversing | 100    | tinnamchoi |
 | Tring Tring...                                                 | Crypto    | 100    | tinnamchoi |
