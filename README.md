@@ -17,7 +17,7 @@
 | [World's Greatest Detecive](misc/worlds-greatest-detective.md) | Misc      | 25     | tinnamchoi |
 | [Pulling the strings](reversing/keygen.md)                     | Reversing | 50     | tinnamchoi |
 | [Alien Communication](forensics/alien-communication.md)        | Forensics | 100    | tinnamchoi |
-| How to defeat a dragon                                         | Reversing | 100    | tinnamchoi |
-| warmup                                                         | Reversing | 100    | tinnamchoi |
+| [How to defeat a dragon](reversing/how-to-defeat-a-dragon.md)  | Reversing | 100    | tinnamchoi |
+| [warmup](reversing/warmup.md)                                  | Reversing | 100    | tinnamchoi |
 | Tring Tring...                                                 | Crypto    | 100    | tinnamchoi |
 | OX9OR2                                                         | Crypto    | 200    | tinnamchoi |
